@@ -1,4 +1,4 @@
-# VidChat — Hybrid Search RAG for YouTube
+# VidChat - Hybrid Search RAG for YouTube
 
 VidChat is a **Retrieval-Augmented Generation (RAG)** application that lets users ask questions about YouTube videos using their transcripts.
 
